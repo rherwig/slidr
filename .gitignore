@@ -1,0 +1,11 @@
+# IntelliJ
+.idea
+*.iml
+
+# NodeJS
+node_modules
+
+# Project
+dist
+lib
+es
